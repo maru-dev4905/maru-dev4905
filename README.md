@@ -1,9 +1,13 @@
-# 이승열 (maru)
+<h1 align="center">이승열 (maru)</h1>
+<p align="center"><i>Leben wie ein Märchen</i></p>
+
+<p align="center">
+  <a href="https://seungyeol.kr"><img src="https://img.shields.io/badge/Portfolio-seungyeol.kr-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://weavekit.kr"><img src="https://img.shields.io/badge/WEAVE-Docs-6366f1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="WEAVE Docs" /></a>
+  <a href="https://www.npmjs.com/package/@snackcup/meerkit"><img src="https://img.shields.io/badge/npm-@snackcup/meerkit-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
+</p>
 
 웹 퍼블리셔로 4년 11개월 일했고, 반복되는 작업을 도구로 바꾸는 개발자로 넘어가는 중입니다.
-
-- 포트폴리오: https://seungyeol.kr
-- WEAVE 문서: https://weavekit.kr
 
 ## 대표 프로젝트
 
@@ -29,4 +33,24 @@
 
 ## 쓰는 기술
 
-HTML, CSS(SASS), JavaScript, TypeScript, React, Next.js, GSAP, Git, Figma, Claude Code
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
+</p>
+
+## GitHub 활동
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+</p>
