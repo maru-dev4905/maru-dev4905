@@ -28,7 +28,7 @@
 - **문제**: AI 서비스를 시작할 때마다 셋업이 여러 단계로 흩어져 있었음
 - **해결**: CLI 명령 10개 이상으로 통합. 실패하면 원인과 해결 방법을 같이 출력함. 에러 원인은 Always/Never 규칙으로 기록하는 개발 하네스를 만듦
 - **맡은 일**: 프론트엔드, Claude 하네스, CLI 패키징
-- **한계**: 규칙이 같은 실수를 줄였는지는 아직 측정하지 못함. Windows 실제 기기 검증은 진행 중
+- **한계**: 규칙이 같은 실수를 줄였는지는 아직 측정하지 못함. Windows는 CI(Linux·Windows 러너)와 실제 PC에서 확인함
 - [저장소](https://github.com/SNACKCUP/meerkit) · [npm](https://www.npmjs.com/package/@snackcup/meerkit)
 
 ## 쓰는 기술
